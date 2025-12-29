@@ -1,31 +1,26 @@
-# Hi, I'm S Pallavisri  
+# Hi there, I'm S Pallavisri 
 
-###  Aspiring Software Developer | BCA Student
-I am a motivated and forward-thinking BCA student at **Seshadripuram College** with a strong passion for **software development, AI tools, and emerging technologies**. I enjoy solving problems through clean, efficient code.
+**BCA Student | Python & C++ Developer | AI Enthusiast**
 
----
+I am a motivated and forward-thinking BCA student at Seshadripuram College, Bengaluru.Currently maintaining an **8.96 GPA**, I focus on solving problems through clean, efficient code.
 
-###  Tech Stack & Skills
-- **Languages:** Python, C++ 
-- **Tools:** Git, VS Code 
-- **Specializations:** Software Development, Web Development, AI Tools 
-- **Languages Known:** English, Kannada, Hindi, Telugu, Tamil 
+###  Tech Stack
+* **Languages:** Python, C++, JavaScript.
+* **Web Dev:** HTML5, CSS3, Fetch API, DOM Manipulation.
+* **Tools:** Git, VS Code.
+* **AI & Cloud:** Prompt Engineering, Generative AI, Cloud Computing.
 
----
+### Featured Projects
+* **Weather Forecast:** A responsive weather application using the OpenWeatherMap API and asynchronous Fetch calls.
+* **Cipher Quest:** A cross-platform encryption suite featuring both CLI and Tkinter-based GUI modes.
 
-###  Featured Projects
-- **Weather Forecast:** A script to fetch and display live weather details.
-- **Secret Message Encoder:** An interactive program to encode and decode secret messages.
+###  Certifications
+* **Google:** Introduction to Generative AI Learning Path.
+* **Great Learning:** Prompt Engineering & Cloud Computing.
 
----
-
-###  Certifications & Achievements
-- **Google:** Introduction to Generative AI Learning Path 
-- **Great Learning:** Cloud Computing & Prompt Engineering 
-- **Community:** NSS Volunteer & Active Coding Club Member 
+### Let's Connect!
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/s-pallavisri-348204355/) 
+* **Email:** sripallavi016@gmail.com 
 
 ---
-
-###  Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/s-pallavisri-348204355/
-- **Email:** sripallavi016@gmail.com 
+[cite_start]*“Excited to contribute creativity and technical depth to innovative projects.”* [cite: 6]
