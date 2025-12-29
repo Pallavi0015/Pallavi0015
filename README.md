@@ -20,7 +20,6 @@ I am a motivated and forward-thinking BCA student at **Seshadripuram College** w
 ---
 
 ### 📜 Certifications & Achievements
-- **GPA:** 8.96
 - **Google:** Introduction to Generative AI Learning Path 
 - **Great Learning:** Cloud Computing & Prompt Engineering 
 - **Community:** NSS Volunteer & Active Coding Club Member 
