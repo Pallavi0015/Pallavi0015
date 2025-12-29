@@ -23,4 +23,4 @@ I am a motivated and forward-thinking BCA student at Seshadripuram College, Beng
 * **Email:** sripallavi016@gmail.com 
 
 ---
-[cite_start]*“Excited to contribute creativity and technical depth to innovative projects.”* [cite: 6]
+*“Excited to contribute creativity and technical depth to innovative projects.”*
