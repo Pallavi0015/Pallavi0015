@@ -19,7 +19,7 @@ I am a motivated and forward-thinking BCA student at Seshadripuram College, Beng
 * **Great Learning:** Prompt Engineering & Cloud Computing.
 
 ### Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/s-pallavisri-348204355/) 
+* **LinkedIn:** https://www.linkedin.com/in/s-pallavisri-348204355/
 * **Email:** sripallavi016@gmail.com 
 
 ---
