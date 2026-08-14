@@ -1,26 +1,65 @@
 # Hi there, I'm S Pallavisri 
 
-**BCA Student | Python & C++ Developer | AI Enthusiast**
-
-I am a motivated and forward-thinking BCA student at Seshadripuram College, Bengaluru.Currently maintaining an **8.96 GPA**, I focus on solving problems through clean, efficient code.
+**BCA Graduate | Python & C++ Developer | AI Enthusiast**
+I’m a motivated and curious **BCA graduate from Seshadripuram College, Bengaluru**, with a **CGPA of 8.91**. I enjoy building practical software solutions, exploring AI technologies, and continuously improving my problem-solving and development skills.
 
 ###  Tech Stack
-* **Languages:** Python, C++, JavaScript.
-* **Web Dev:** HTML5, CSS3, Fetch API, DOM Manipulation.
-* **Tools:** Git, VS Code.
-* **AI & Cloud:** Prompt Engineering, Generative AI, Cloud Computing.
+* **Languages:** Python, C++, JavaScript, TypeScript
+* **Web Development:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Vite
+* **Backend & Frameworks:** Python, Django
+* **Data & APIs:** JSON, REST APIs, Fetch API, Data Visualization
+* **AI:** Generative AI, Prompt Engineering, AI Tools, LLM Integration
+* **Tools:** Git, GitHub, VS Code, Command Line
 
-### Featured Projects
-* **Weather Forecast:** A responsive weather application using the OpenWeatherMap API and asynchronous Fetch calls.
-* **Cipher Quest:** A cross-platform encryption suite featuring both CLI and Tkinter-based GUI modes.
+###  Featured Projects
+**TraceForge – Interactive Algorithm Visualizer**
+A web application that visually demonstrates sorting and searching algorithms, including Merge Sort, Selection Sort, Insertion Sort, Bubble Sort, Linear Search, and Binary Search.
+*React • TypeScript • Tailwind CSS • Vite*
 
-###  Certifications
-* **Google:** Introduction to Generative AI Learning Path.
-* **Great Learning:** Prompt Engineering & Cloud Computing.
+**AIRA – Customer Support Chatbot**
+An AI-powered customer support chatbot developed during my internship, combining Python with a web-based interface to provide interactive responses.
+*Python • HTML • CSS • AI*
 
-### Let's Connect!
+**Weather Forecast Website**
+A responsive weather application that fetches real-time weather information using the OpenWeatherMap API and asynchronous JavaScript Fetch calls.
+*JavaScript • HTML • CSS • REST API*
+
+**Cipher Quest – Secret Message Encoder**
+A Python-based encryption project featuring both CLI and Tkinter GUI interfaces for encoding and decoding secret messages.
+*Python • Tkinter*
+
+###  Internship Experience
+**InternStudio – Software Development Intern**
+
+Completed a **90-hour internship** focused on practical software development and project implementation.
+* Developed **AlgoVis**, an interactive algorithm visualization web application.
+* Built **AIRA**, a customer support chatbot.
+* Worked with modern web technologies, Python, Git, and GitHub.
+* Gained hands-on experience in software development and problem-solving.
+
+###  Certifications & Learning
+* **Google** – Introduction to Generative AI Learning Path
+* **Great Learning** – Prompt Engineering
+* **Great Learning** – Cloud Computing
+
+###  Education
+**Bachelor of Computer Applications (BCA)**
+Seshadripuram College, Bengaluru
+**CGPA: 8.91**
+
+###  Current Focus
+* Software Development
+* Python & C++ Programming
+* Web Development
+* Artificial Intelligence & Generative AI
+* Data Structures & Algorithms
+* Building practical projects
+* Preparing for opportunities in the technology industry
+
+###  Let's Connect!
 * **LinkedIn:** https://www.linkedin.com/in/s-pallavisri-348204355/
-* **Email:** sripallavi016@gmail.com 
+* **Email:** [sripallavi016@gmail.com](mailto:sripallavi016@gmail.com)
 
 ---
-*“Excited to contribute creativity and technical depth to innovative projects.”*
+
+*“Always learning, building, and turning ideas into practical solutions.”*
